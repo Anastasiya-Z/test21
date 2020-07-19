@@ -11,7 +11,7 @@
   "author": "Asya Zaslavskaya",
   "license": "MIT",
   "dependencies": {
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.19"
   },
   "devDependencies": {
     "css-loader": "^3.4.2",
